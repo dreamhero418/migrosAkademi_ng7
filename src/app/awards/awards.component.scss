@@ -1,0 +1,120 @@
+.awards {
+  .awards-img {
+    background-image:url('../../assets/img/prize.svg');
+    height: 185px;
+    background-size: 100% 100%;
+  }
+}
+
+.timeline-carousel{
+  position: relative;
+  top: 50px;
+}
+
+.timeline-carousel li{
+  list-style: none;
+  float: left;
+  width: 33.3333%;
+  position: relative;
+  text-align: center;
+
+
+}
+ul:nth-child(1){
+  color: #F5A623;
+}
+/*.timeline-carousel li:before{
+  content: "";
+  width: 90px;
+  height: 90px;
+  border: 3px solid #F5A623;
+  border-radius: 50%;
+  display: block;
+  text-align: center;
+  line-height: 50px;
+  margin: 0 auto 10px auto;
+  background: white;
+  color: #000;
+  transition: all ease-in-out .3s;
+  cursor: pointer;
+}*/
+
+.timeline-carousel li:after{
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 1px;
+  background-color: #000;
+  top: 28px;
+  left: -50%;
+  z-index: -999;
+  transition: all ease-in-out .3s;
+}
+
+.timeline-carousel li:first-child:after{
+  content: none;
+}
+.timeline-carousel li.active{
+  color: #555555;
+}
+.timeline-carousel li.active:before{
+  background: white;
+  color: #294859;
+}
+
+.timeline-carousel li.active + li:after{
+  background: white;
+}
+
+hr {
+  border-top: 1px solid #F5A623;
+  border-bottom: 1px solid #F5A623;
+  margin-top:75px;
+}
+
+.year {
+  position: absolute;
+  top: 55%;
+  left: 0;
+  right: 0;
+  transform: translateY(-55%);
+  color:#294859;
+}
+
+.timeline-carousel {
+p {
+  color:#294859;
+}
+  .bubble {
+    height: 100px;
+
+  }
+  .bubble-short {
+    background-image:url('../../assets/img/awards-short-bubble.svg');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+  }
+  .bubble-long{
+    background-image:url('../../assets/img/awards-long-bubble.svg');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    height: 200px;
+  }
+  li.long {
+
+    .year {
+      position: absolute;
+      top: 41%;
+      left: 0;
+      right: 0;
+      transform: translateY(-41%);
+
+    }
+  }
+  .logo {
+    img {
+      display: inline;
+    }
+  }
+
+}

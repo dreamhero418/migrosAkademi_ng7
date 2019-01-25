@@ -1,0 +1,32 @@
+.programs {
+  .programs-img {
+    background-image: url('../../assets/img/program-img.svg');
+    height: 185px;
+    background-size: 100% 100%;
+  }
+}
+
+.center .slick-center h3 {
+  -moz-transform: scale(1.08);
+  -ms-transform: scale(1.08);
+  -o-transform: scale(1.08);
+  -webkit-transform: scale(1.08);
+  color: #e67e22;
+  opacity: 1;
+  transform: scale(1.08);
+
+}
+.center h3 {
+  opacity: 0.8;
+  transition: all 300ms ease;
+}
+
+.slider {
+  .card {
+    background: #fff;
+    box-shadow: 0 10px 20px 0 rgba(0,0,0,0.20);
+    img {
+      width: 100%;
+    }
+  }
+}
