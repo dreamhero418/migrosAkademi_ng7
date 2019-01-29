@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="175" height="175" viewBox="0 0 175 175">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.508" y1="0.261" x2="0.149" y2="1.034" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e77378"/>
+      <stop offset="1" stop-color="#b32a30"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <path id="Icon" d="M167.709,145.832H131.248a7.3,7.3,0,0,1-7.291-7.291V72.916a7.3,7.3,0,0,1,7.291-7.291l36.461.072A7.263,7.263,0,0,1,175,72.916v65.625A7.3,7.3,0,0,1,167.709,145.832ZM131.248,80.207V131.25h36.461V80.207Zm-21.873,65.625H51.042V131.25H65.624V116.668H14.582A14.6,14.6,0,0,1,0,102.086v-87.5A14.6,14.6,0,0,1,14.582,0H145.83a14.6,14.6,0,0,1,14.582,14.582V51.043H145.83V14.582H14.582v87.5h94.794v14.582H94.788V131.25h14.588v14.582ZM62.18,85.109l.007-.021L69.05,63.873,51.042,51.043H73.132l7.074-21.879L87.28,51.043h22.1L91.362,63.873l6.851,21.2-18.007-13.1L62.2,85.1Z" transform="translate(0 0)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Dijital" transform="translate(-3 -1044.183)">
+    <path id="Fill_17" data-name="Fill 17" d="M9.828,11.849C-7.69,43.422-3.389,90.118,35.783,94.641h0c15.506,1.79,24.763,12.224,30.289,24.178h0c5.714,12.36,23.658,11.7,28.575-1h0C127.673,32.533,75.026,0,38.435,0h0C25.184,0,14.032,4.272,9.828,11.849" transform="translate(55.848 1066.767)" fill="url(#linear-gradient)"/>
+    <path id="Fill_20" data-name="Fill 20" d="M26.485,2.412C20.67,5.739,14.816,4.487,9.865,1.761h0A6.681,6.681,0,0,0,.242,9.374h0c14,51.6,58.059,28.929,56.276,15.054h0C54.934,12.11,46.036,0,35,0h0a17.055,17.055,0,0,0-8.517,2.412" transform="translate(45.24 1171.44)" fill="url(#linear-gradient)"/>
+    <g id="school" transform="translate(3 1044.183)">
+      <rect id="school_background" data-name="school background" width="174.998" height="175" transform="translate(0 0)" fill="rgba(0,0,0,0)"/>
+      <path id="Base" d="M0,0H175V175H0Z" transform="translate(0 0)" fill="none"/>
+      <path id="Icon-2" data-name="Icon" d="M167.709,145.832H131.248a7.3,7.3,0,0,1-7.291-7.291V72.916a7.3,7.3,0,0,1,7.291-7.291l36.461.072A7.263,7.263,0,0,1,175,72.916v65.625A7.3,7.3,0,0,1,167.709,145.832ZM131.248,80.207V131.25h36.461V80.207Zm-21.873,65.625H51.042V131.25H65.624V116.668H14.582A14.6,14.6,0,0,1,0,102.086v-87.5A14.6,14.6,0,0,1,14.582,0H145.83a14.6,14.6,0,0,1,14.582,14.582V51.043H145.83V14.582H14.582v87.5h94.794v14.582H94.788V131.25h14.588v14.582ZM62.18,85.109l.007-.021L69.05,63.873,51.042,51.043H73.132l7.074-21.879L87.28,51.043h22.1L91.362,63.873l6.851,21.2-18.007-13.1L62.2,85.1Z" transform="translate(0 14.583)" fill="none"/>
+      <g transform="translate(0 14.583)" clip-path="url(#clip-path)">
+        <rect id="_Color" data-name="↳ 🎨 Color" width="174.998" height="174.998" transform="translate(0 -14.583)" fill="#4a4a4a"/>
+      </g>
+    </g>
+  </g>
+</svg>

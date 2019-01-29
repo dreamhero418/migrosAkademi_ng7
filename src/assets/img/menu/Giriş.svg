@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="175" height="183.715" viewBox="0 0 175 183.715">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.508" y1="0.261" x2="0.149" y2="1.034" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e77378"/>
+      <stop offset="1" stop-color="#b32a30"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <path id="Icon" d="M160.414,107.17H116.668V88.031c0-10.276-4.833-19.163-14.365-26.414,2.955-.263,5.2-.379,7.074-.379,17.811,0,51.037,9.2,51.037,26.792V107.17Zm-58.327,0H0V88.031C0,70.441,33.23,61.239,51.043,61.239s51.043,9.2,51.043,26.792V107.17Zm7.291-61.239c-12.064,0-21.879-10.3-21.879-22.969S97.313,0,109.377,0c12.021,0,21.8,10.3,21.8,22.962S121.4,45.931,109.377,45.931Zm-58.334,0c-12.064,0-21.879-10.3-21.879-22.969S38.979,0,51.043,0c12.021,0,21.8,10.3,21.8,22.962S63.064,45.931,51.043,45.931Z" transform="translate(0 0)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Giriş" transform="translate(-7 -1240)">
+    <path id="Stroke_1" data-name="Stroke 1" d="M104.028,52.014A52.014,52.014,0,1,1,52.014,0,52.013,52.013,0,0,1,104.028,52.014Z" transform="translate(26.24 1271.56)" fill="url(#linear-gradient)"/>
+    <g id="people" transform="translate(7 1240)">
+      <rect id="people_background" data-name="people background" width="175" height="183.715" transform="translate(0 0)" fill="rgba(0,0,0,0)"/>
+      <path id="Base" d="M0,0H175V183.715H0Z" transform="translate(0 0)" fill="none"/>
+      <path id="Icon-2" data-name="Icon" d="M160.414,107.17H116.668V88.031c0-10.276-4.833-19.163-14.365-26.414,2.955-.263,5.2-.379,7.074-.379,17.811,0,51.037,9.2,51.037,26.792V107.17Zm-58.327,0H0V88.031C0,70.441,33.23,61.239,51.043,61.239s51.043,9.2,51.043,26.792V107.17Zm7.291-61.239c-12.064,0-21.879-10.3-21.879-22.969S97.313,0,109.377,0c12.021,0,21.8,10.3,21.8,22.962S121.4,45.931,109.377,45.931Zm-58.334,0c-12.064,0-21.879-10.3-21.879-22.969S38.979,0,51.043,0c12.021,0,21.8,10.3,21.8,22.962S63.064,45.931,51.043,45.931Z" transform="translate(7.292 38.274)" fill="none"/>
+      <g transform="translate(7.292 38.274)" clip-path="url(#clip-path)">
+        <rect id="_Color" data-name="↳ 🎨 Color" width="175" height="175" transform="translate(-7.292 -38.274)" fill="#4a4a4a"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="647.655" height="765" viewBox="0 0 647.655 765">
+  <g id="teacher_vektor" transform="translate(0 16)">
+    <rect id="teacher_vektor_background" data-name="teacher_vektor background" width="647.655" height="724.604" transform="translate(0 24.396)" fill="rgba(0,0,0,0)"/>
+    <g id="OJXK921" transform="translate(0 -16)">
+      <path id="Fill_1" data-name="Fill 1" d="M0,724.6H647.655V0H0Z" transform="translate(0 40.396)" fill="#fffffe"/>
+      <path id="Fill_3" data-name="Fill 3" d="M510,313.07H0V302.4H505.678V290.233H510V313.07Zm-9-33.057h0v0l-4.317,0V0H501Z" transform="translate(72.212 181.782)" fill="#cac9c4"/>
+      <path id="Fill_4" data-name="Fill 4" d="M0,277.723H480.664V0H0Z" transform="translate(81.239 179.257)" fill="#323136"/>
+      <path id="Fill_5" data-name="Fill 5" d="M0,255H462.611V0H0Z" transform="translate(90.265 191.881)" fill="#3c3a41"/>
+      <path id="Fill_6" data-name="Fill 6" d="M491.946,287.825v0H0V0H491.946V287.825ZM10.5,11.691V276.129H481.44V11.691Z" transform="translate(76.726 174.208)" fill="#b28f5a"/>
+      <path id="Fill_7" data-name="Fill 7" d="M11.283,11.311H10.11v1.313L0,1.313V0H1.173l10.11,11.311" transform="translate(76.726 174.208)" fill="#836a44"/>
+      <path id="Fill_8" data-name="Fill 8" d="M0,11.311H1.17v1.313L11.283,1.313V0h-1.17L0,11.311" transform="translate(557.389 174.208)" fill="#836a44"/>
+      <path id="Fill_9" data-name="Fill 9" d="M0,1.313H1.17V0L11.283,11.311v1.313h-1.17L0,1.313" transform="translate(557.389 449.406)" fill="#836a44"/>
+      <path id="Fill_10" data-name="Fill 10" d="M11.283,1.313H10.11V0L0,11.311v1.313H1.173L11.283,1.313" transform="translate(76.726 449.406)" fill="#836a44"/>
+      <path id="Fill_11" data-name="Fill 11" d="M0,22.723H510V0H0Z" transform="translate(67.699 462.03)" fill="#c49e61"/>
+      <path id="Fill_12" data-name="Fill 12" d="M0,2.525H510V0H0Z" transform="translate(67.699 482.228)" fill="#a18352"/>
+      <path id="Fill_13" data-name="Fill 13" d="M0,2.525H510V0H0Z" transform="translate(67.699 464.554)" fill="#d0b381"/>
+      <path id="Fill_14" data-name="Fill 14" d="M20.4,5.05H2.17A2.368,2.368,0,0,1,0,2.525,2.368,2.368,0,0,1,2.17,0H20.4a2.368,2.368,0,0,1,2.17,2.525A2.368,2.368,0,0,1,20.4,5.05" transform="translate(92.522 456.98)" fill="#fffffe"/>
+      <path id="Fill_15" data-name="Fill 15" d="M0,15.149H33.85V0H0Z" transform="translate(121.858 446.881)" fill="#fffffe"/>
+      <path id="Fill_16" data-name="Fill 16" d="M0,12.624H33.85V0H0Z" transform="translate(121.858 446.881)" fill="#c1aa7f"/>
+      <text id="Migros_Parekende_Aka" data-name="Migros Parekende Aka" transform="translate(121.858 65)" fill="#fff" font-size="60" font-family="SegoeUI, Segoe UI" letter-spacing="0.019em"><tspan x="0" y="0">Migros</tspan><tspan x="0" y="80">Parekende</tspan><tspan x="0" y="160">Akademisi</tspan></text>
+    </g>
+  </g>
+</svg>

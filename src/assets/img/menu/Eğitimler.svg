@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="175" height="175" viewBox="0 0 175 175">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.508" y1="0.261" x2="0.149" y2="1.034" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e77378"/>
+      <stop offset="1" stop-color="#b32a30"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <path id="Icon" d="M80.207,131.25l0,0L29.164,103.4V74.228l51.043,27.858L131.25,74.228V103.4L80.21,131.248Zm80.207-29.164H145.832V51.7L80.207,87.5,0,43.752,80.207,0l80.207,43.752v58.334Z" transform="translate(0 0)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Eğitimler" transform="translate(-3 -834.183)">
+    <path id="Fill_41" data-name="Fill 41" d="M87.034.159l-76.39,12.2A12.634,12.634,0,0,0,.16,26.824h0L9.6,85.963A12.634,12.634,0,0,0,24.07,96.448h0l76.391-12.2a12.635,12.635,0,0,0,10.484-14.468h0L101.5,10.643A12.636,12.636,0,0,0,89.041,0h0a12.818,12.818,0,0,0-2.007.159" transform="translate(58.915 855.021)" fill="url(#linear-gradient)"/>
+    <g id="school" transform="translate(3 834.183)">
+      <rect id="school_background" data-name="school background" width="175" height="175" transform="translate(0 0)" fill="rgba(0,0,0,0)"/>
+      <path id="Base" d="M0,0H175V175H0Z" transform="translate(0 0)" fill="none"/>
+      <path id="Icon-2" data-name="Icon" d="M80.207,131.25l0,0L29.164,103.4V74.228l51.043,27.858L131.25,74.228V103.4L80.21,131.248Zm80.207-29.164H145.832V51.7L80.207,87.5,0,43.752,80.207,0l80.207,43.752v58.334Z" transform="translate(7.292 21.875)" fill="none"/>
+      <g transform="translate(7.292 21.875)" clip-path="url(#clip-path)">
+        <rect id="_Color" data-name="↳ 🎨 Color" width="175" height="175" transform="translate(-7.292 -21.875)" fill="#4a4a4a"/>
+      </g>
+    </g>
+  </g>
+</svg>

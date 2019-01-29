@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="275.107" height="289.862" viewBox="0 0 275.107 289.862">
+  <g id="cup" transform="translate(-0.946 -0.138)">
+    <g id="Group_3_Copy" data-name="Group 3 Copy">
+      <g id="Group" transform="translate(205.296 18.281)">
+        <path id="Combined_Shape" data-name="Combined Shape" d="M17.3,106.148H0L12.5,0H61.37a9.053,9.053,0,0,1,9.047,9.04V53.074a52.7,52.7,0,0,1-4.174,20.659A53.083,53.083,0,0,1,17.3,106.148ZM12.656,16.538l-4.5,73.031,12.784-3.578A43.184,43.184,0,0,0,52.379,47.129l1.6-25.791c.005-.093.008-.187.008-.28a4.527,4.527,0,0,0-4.523-4.52H12.656Z" transform="translate(0.341 0.17)" fill="#ffc300"/>
+      </g>
+      <g id="Group_Copy" data-name="Group Copy" transform="translate(71.704 18.281) rotate(180)">
+        <path id="Combined_Shape-2" data-name="Combined Shape" d="M-17.3,106.148H0L-12.5,0H-61.37a9.053,9.053,0,0,0-9.047,9.04V53.074a52.7,52.7,0,0,0,4.174,20.659A52.894,52.894,0,0,0-54.858,90.6a52.945,52.945,0,0,0,16.885,11.374A52.827,52.827,0,0,0-17.3,106.148Zm4.641-89.609,4.5,73.031-12.784-3.578A43.184,43.184,0,0,1-52.379,47.129l-1.6-25.791c-.005-.093-.008-.187-.008-.28a4.527,4.527,0,0,1,4.523-4.52h36.813Z" transform="translate(0.341 -0.17) rotate(180)" fill="#ffc300"/>
+      </g>
+      <rect id="Rectangle_2" data-name="Rectangle 2" width="176.419" height="6.779" rx="1.95" transform="translate(50.29 262.882)" fill="#ffc300"/>
+      <path id="Combined_Shape-3" data-name="Combined Shape" d="M79.417,203.3l-.255,0v0L67.515,203.2c3.244-31.629-19.984-35.654-42.825-62.279C0,112.141,0,79.273,0,79.273V2.6A2.6,2.6,0,0,1,2.6,0H156.234a2.6,2.6,0,0,1,2.6,2.6V79.273s0,32.868-24.691,61.648C111.3,167.546,88.075,171.572,91.319,203.2l-11.647.093v0Z" transform="translate(59.305 0.138)" fill="#ffc300"/>
+      <rect id="Rectangle_2_Copy" data-name="Rectangle 2 Copy" width="42.974" height="6.779" rx="1.95" transform="translate(20.887 283.221)" fill="#ffc300"/>
+      <rect id="Rectangle" width="113.089" height="61.015" transform="translate(81.955 202.384)" fill="#ec610a"/>
+      <rect id="Rectangle_Copy" data-name="Rectangle Copy" width="76.901" height="33.897" transform="translate(100.05 215.943)" fill="#ffc300"/>
+      <rect id="Rectangle_2_Copy_2" data-name="Rectangle 2 Copy 2" width="33.927" height="6.779" rx="1.95" transform="translate(88.741 283.221)" fill="#ffc300"/>
+      <path id="Star" d="M42.974,64.4,17.714,77.673l4.824-28.1L2.1,29.669l28.241-4.1L42.974,0,55.6,25.568l28.241,4.1-20.435,19.9,4.824,28.1Z" transform="translate(95.526 30.638)" fill="#ec610a"/>
+      <path id="Path_2" data-name="Path 2" d="M0,0S1.82,31.762,10.192,48.659" transform="translate(76.422 62.775)" fill="none" stroke="#ec610a" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2.6"/>
+      <path id="Path_3" data-name="Path 3" d="M0,0S6.2,9.211,10.219,13.155" transform="translate(93.722 125.741)" fill="none" stroke="#ec610a" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2.6"/>
+      <rect id="Rectangle_2_Copy_3" data-name="Rectangle 2 Copy 3" width="22.618" height="6.779" rx="1.95" transform="translate(136.238 283.221)" fill="#ffc300"/>
+      <rect id="Rectangle_2_Copy_4" data-name="Rectangle 2 Copy 4" width="92.733" height="6.779" rx="1.95" transform="translate(181.474 283.221)" fill="#ffc300"/>
+    </g>
+  </g>
+</svg>

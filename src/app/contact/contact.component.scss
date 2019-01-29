@@ -40,35 +40,104 @@
 .map {
   width: 100%;
   position: relative;
+  margin-bottom:12px;
 
-  .loc-card {
-    background-color: #ffffff;
-    padding: 50px;
+  .desc-card{
     position: absolute;
-    bottom: 0;
-    left: 0;
-    z-index: 999999;
-    right: 0;
-    margin: 0 auto;
-    width: 200px;
+    top: 75px;
+    left: 280px;
+    z-index: 2;
+    .address{
+      position: relative;
+      .desc-card-text1{
+        position: absolute;
+        top:60px;
+        right: 42px;
+        font-size: 22px;
+        width: 50%;
+        text-align: center
+      }
+      .desc-card-text2{
+        position: absolute;
+        bottom:60px;
+        right: 12px;
+        font-size: 19px;
+        width: 60%;
+        text-align: center
+      }
+    }
   }
 
   #location {
     background-image: url('../../assets/img/map-select.svg');
     background-repeat: no-repeat;
-    background-size: 100% 100%;
-    color: white;
+    background-size: cover;
     border: none;
     -webkit-border-radius: 0;
     -moz-border-radius: 0;
     border-radius: 0;
-    height: 35px;
+    width: 36%;
+    height: 60px;
     font-size: 11px;
     padding-left: 61px;
-    z-index: 999999999999;
+    z-index: 10;
     position: absolute;
     left: 0;
     right: 0;
     margin: 0 auto;
+  }
+  option*.add{
+    text-align: center;
+    color: red
+  }
+}
+
+
+@media only screen and (max-width: 768px) {
+  .container{
+    overflow: hidden;
+  }
+  .contact-img {
+    display: none
+  }
+  .map{
+  .desc-card{
+    position: absolute;
+    width: 80%;
+    top: 120px;
+    left: 40px;
+    z-index: 2;
+    .address{
+      position: relative;
+      img{
+        width: 100%
+      }
+      .desc-card-text1{
+        position: absolute;
+        top:30px;
+        right: 42px;
+        font-size: 12px;
+        width: 50%;
+        text-align: center
+      }
+      .desc-card-text2{
+        position: absolute;
+        bottom:30px;
+        right: 8px;
+        font-size: 14px;
+        width: 60%;
+        text-align: center
+      }
+    }
+  }
+  #location {
+    height: 35px;
+  }
+  }
+}
+
+@media only screen and (min-width: 769px) {
+  .mobile-view {
+    display: none
   }
 }

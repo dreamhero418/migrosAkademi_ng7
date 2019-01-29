@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="174" height="174" viewBox="0 0 174 174">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.508" y1="0.261" x2="0.149" y2="1.034" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e77378"/>
+      <stop offset="1" stop-color="#b32a30"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <path id="Icon" d="M58,123.25V79.75H87v43.5h36.25v-58H145L72.5,0,0,65.25H21.75v58Z" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="home" transform="translate(-8)">
+    <path id="Fill_33" data-name="Fill 33" d="M67.033,0A67.241,67.241,0,0,0,5.4,40.877h0a67.224,67.224,0,0,0,35.475,88.2h0c34.152,14.561,11.8-27.685,26.363-61.838h0C81.8,33.089,127.756,19.963,93.6,5.4h0A67.007,67.007,0,0,0,67.509,0h-.476Z" transform="translate(20.652 10.376)" fill="url(#linear-gradient)"/>
+    <g id="home-2" data-name="home" transform="translate(8)">
+      <rect id="home_background" data-name="home background" width="174" height="174" transform="translate(0 0)" fill="rgba(0,0,0,0)"/>
+      <path id="Base" d="M0,0H174V174H0Z" transform="translate(0 0)" fill="none"/>
+      <path id="Icon-2" data-name="Icon" d="M58,123.25V79.75H87v43.5h36.25v-58H145L72.5,0,0,65.25H21.75v58Z" transform="translate(14.5 21.75)" fill="none"/>
+      <g transform="translate(14.5 21.75)" clip-path="url(#clip-path)">
+        <rect id="_Color" data-name="↳ 🎨 Color" width="174" height="174" transform="translate(-14.5 -21.75)" fill="#4a4a4a"/>
+      </g>
+    </g>
+  </g>
+</svg>

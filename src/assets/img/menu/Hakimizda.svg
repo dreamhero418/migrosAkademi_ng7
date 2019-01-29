@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="175" height="154.921" viewBox="0 0 175 154.921">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.508" y1="0.261" x2="0.149" y2="1.034" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e77378"/>
+      <stop offset="1" stop-color="#b32a30"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <path id="Icon" d="M131.25,96.885H116.668V84.776H131.25V96.885Zm-29.164,0H87.5V84.776h14.588V96.885Zm-29.17,0H58.334V84.776H72.916V96.885Zm-29.164,0H29.164V84.776H43.752V96.885Zm-29.17,0H0V84.776H14.582V96.885ZM131.25,72.661H94.789V60.552H131.25V72.661Zm-47.394,0H47.394V60.552H83.856V72.661Zm-47.394,0H0V60.552H36.461V72.661ZM131.25,48.442H72.916V36.333H131.25V48.442Zm-72.916,0H0V36.333H58.334V48.442ZM131.25,24.218H0V0H131.25V24.218Z" transform="translate(0 0)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Hakimizda" transform="translate(-7 -210.775)">
+    <path id="Fill_23" data-name="Fill 23" d="M3.9,49.752S-7.168,67.816,7.982,70.73,44.567,68.4,56.867,79.471s61.247,27.387,72.318,0C139.189,54.724,101.138.006,69.2,0A25.367,25.367,0,0,0,59.26,1.97C26.046,15.955,3.9,49.752,3.9,49.752Z" transform="translate(25.288 210.775)" fill="url(#linear-gradient)"/>
+    <g id="line_style" transform="translate(7 220.37)">
+      <rect id="line_style_background" data-name="line_style background" width="175" height="145.325" transform="translate(0 0)" fill="rgba(0,0,0,0)"/>
+      <path id="Base" d="M0,0H175V145.325H0Z" transform="translate(0 0)" fill="none"/>
+      <path id="Icon-2" data-name="Icon" d="M131.25,96.885H116.668V84.776H131.25V96.885Zm-29.164,0H87.5V84.776h14.588V96.885Zm-29.17,0H58.334V84.776H72.916V96.885Zm-29.164,0H29.164V84.776H43.752V96.885Zm-29.17,0H0V84.776H14.582V96.885ZM131.25,72.661H94.789V60.552H131.25V72.661Zm-47.394,0H47.394V60.552H83.856V72.661Zm-47.394,0H0V60.552H36.461V72.661ZM131.25,48.442H72.916V36.333H131.25V48.442Zm-72.916,0H0V36.333H58.334V48.442ZM131.25,24.218H0V0H131.25V24.218Z" transform="translate(21.875 24.221)" fill="none"/>
+      <g transform="translate(21.875 24.221)" clip-path="url(#clip-path)">
+        <rect id="_Color" data-name="↳ 🎨 Color" width="145.325" height="145.325" transform="translate(-21.875 -24.221)" fill="#4a4a4a"/>
+      </g>
+    </g>
+  </g>
+</svg>

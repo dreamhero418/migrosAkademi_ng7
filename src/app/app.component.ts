@@ -12,6 +12,8 @@ import 'slick-carousel';
 export class AppComponent implements OnInit {
   title = 'web';
 
+  
+
   constructor(public router: Router) {
 
   }
@@ -253,12 +255,12 @@ export class AppComponent implements OnInit {
           if (status === google.maps.GeocoderStatus.OK) {
             // @ts-ignore
             var iconBase = '../assets/img/';
-            const marker = new google.maps.Marker({
-              position: results[0].geometry.location,
-              icon: iconBase + 'map-pin.svg',
-              map: map,
-              title: address
-            });
+            // const marker = new google.maps.Marker({
+            //   position: results[0].geometry.location,
+            //   icon: iconBase + 'map-pin.svg',
+            //   map: map,
+            //   title: address
+            // });
             bounds.extend(results[0].geometry.location);
             map.fitBounds(bounds);
           } else {
@@ -334,6 +336,20 @@ export class AppComponent implements OnInit {
     });
 
   }
+
+  openNav() {
+    if(window.innerWidth>768){
+      document.getElementById("mySidenav").style.width = "450px";
+    }else{
+      document.getElementById("mySidenav").style.width = "100%";
+    }
+    
+  }
+  
+  closeNav() {
+    document.getElementById("mySidenav").style.width = "0";
+  }
+  
 }
 
 

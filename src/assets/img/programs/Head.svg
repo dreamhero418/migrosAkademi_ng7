@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="373" height="66" viewBox="0 0 373 66">
+  <g id="Head" transform="translate(0)">
+    <text id="Georgia_State_Univer" data-name="Georgia State Univer" transform="translate(0 2)" fill="#4a4a4a" font-size="26" font-family="SegoeUI, Segoe UI"><tspan x="0" y="28">Georgia State </tspan></text>
+    <g id="Takvim" transform="translate(204.317)">
+      <g id="Takvim-2" data-name="Takvim">
+        <path id="Fill_4" data-name="Fill 4" d="M0,2.538H57.771V0H0Z" transform="translate(0.45 18.615)" fill="#aad4c8"/>
+        <path id="Fill_5" data-name="Fill 5" d="M5.941,0H3.584A3.242,3.242,0,0,0,1.049,1.375,5.568,5.568,0,0,0,0,4.7v5.458H57.771V4.7a5.561,5.561,0,0,0-1.05-3.32A3.238,3.238,0,0,0,54.188,0H48.11V6.149a1.883,1.883,0,0,1-1.586,2.078h-3.34A1.881,1.881,0,0,1,41.6,6.149V0H16.173V6.149a1.883,1.883,0,0,1-1.585,2.078H11.247A1.881,1.881,0,0,1,9.663,6.149V0H5.941" transform="translate(0.45 5.923)" fill="rgba(179,42,48,0.66)"/>
+        <path id="Fill_6" data-name="Fill 6" d="M0,7.615H57.771V0H0Z" transform="translate(0.45 16.077)" fill="#b32a30"/>
+        <path id="Fill_7" data-name="Fill 7" d="M0,11.846H3.359V0H0Z" transform="translate(11.198)" fill="#616e7d"/>
+        <path id="Fill_8" data-name="Fill 8" d="M0,11.846H3.359V0H0Z" transform="translate(43.443)" fill="#616e7d"/>
+        <path id="Fill_10" data-name="Fill 10" d="M0,9.308H8.061V0H0Z" transform="translate(25.305 26.231)" fill="#82bfab"/>
+        <path id="Fill_11" data-name="Fill 11" d="M0,9.308H8.061V0H0Z" transform="translate(35.382 26.231)" fill="#82bfab"/>
+        <path id="Fill_12" data-name="Fill 12" d="M0,9.308H8.061V0H0Z" transform="translate(46.802 26.231)" fill="#82bfab"/>
+        <path id="Fill_13" data-name="Fill 13" d="M0,9.308H8.061V0H0Z" transform="translate(3.137 37.231)" fill="#82bfab"/>
+        <path id="Fill_14" data-name="Fill 14" d="M0,9.308H8.061V0H0Z" transform="translate(14.557 37.231)" fill="#82bfab"/>
+        <path id="Fill_15" data-name="Fill 15" d="M0,9.308H8.061V0H0Z" transform="translate(25.305 37.231)" fill="#82bfab"/>
+        <path id="Fill_16" data-name="Fill 16" d="M0,9.308H8.061V0H0Z" transform="translate(35.382 37.231)" fill="#aad4c8"/>
+        <path id="Fill_17" data-name="Fill 17" d="M0,9.308H8.061V0H0Z" transform="translate(46.802 37.231)" fill="#82bfab"/>
+        <path id="Fill_18" data-name="Fill 18" d="M0,9.308H8.061V0H0Z" transform="translate(3.137 49.923)" fill="#82bfab"/>
+        <path id="Fill_19" data-name="Fill 19" d="M0,9.308H8.061V0H0Z" transform="translate(14.557 49.923)" fill="#aad4c8"/>
+        <path id="Fill_20" data-name="Fill 20" d="M0,9.308H8.061V0H0Z" transform="translate(25.305 49.923)" fill="#82bfab"/>
+        <path id="Fill_21" data-name="Fill 21" d="M0,9.308H8.061V0H0Z" transform="translate(35.382 49.923)" fill="#82bfab"/>
+        <text id="İlk_program" data-name="İlk program" transform="translate(0.885 14.692)" fill="#fff" font-size="8" font-family="SegoeUI, Segoe UI"><tspan x="8.185" y="9">İlk program</tspan></text>
+      </g>
+      <text id="_2011" data-name="2011" transform="translate(12 49)" fill="#fff" font-size="15" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">2011</tspan></text>
+    </g>
+  </g>
+</svg>

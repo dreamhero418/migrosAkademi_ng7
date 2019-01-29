@@ -12,11 +12,12 @@ $spacer: 1rem !default;
   background-image:url('../../assets/img/res-bg.svg');
   background-size: cover;
   padding-bottom: ($spacer * 8);
-  margin-bottom: ($spacer * -12);
+  margin-bottom: ($spacer * 2);
+
   .apps {
     .logo {
       img {
-        width: 100%;
+        width: 50%;
       }
     }
     .ios {
@@ -37,5 +38,42 @@ $spacer: 1rem !default;
     h6 {
       font-weight: bold;
     }
+  }
+}
+
+.mobile-view{
+  overflow: hidden;
+  position: relative;
+  h4{
+    margin: auto;
+    margin-left: 25%;    
+  }
+  .icon-item{
+    margin: 20px;
+    padding:12px;
+    text-align: center;
+    img{
+      width: 100%;
+    }
+    p{
+      margin-top:6px;
+      font-size: 15px;
+    }
+    .icon{
+      float: right;
+      margin-right: 12px;      
+    }
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .container {
+    display: none
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  .mobile-view {
+    display: none
   }
 }

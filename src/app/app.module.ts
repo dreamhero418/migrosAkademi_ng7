@@ -13,7 +13,10 @@ import {ProgramsComponent} from './programs/programs.component';
 import {CookieService} from 'ngx-cookie-service';
 import {AboutComponent} from './about/about.component';
 import {NgbModule} from '@ng-bootstrap/ng-bootstrap';
-
+import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
+import { HomeComponent } from './home/home.component';
+import { MatButtonModule, MatCardModule } from '@angular/material';
+import { HaberdetayComponent } from './haberdetay/haberdetay.component';
 
 @NgModule({
   declarations: [
@@ -23,7 +26,9 @@ import {NgbModule} from '@ng-bootstrap/ng-bootstrap';
     ResourcesComponent,
     AwardsComponent,
     ProgramsComponent,
-    AboutComponent
+    AboutComponent,
+    HomeComponent,
+    HaberdetayComponent
   ],
   imports: [
     BrowserModule,
@@ -31,7 +36,9 @@ import {NgbModule} from '@ng-bootstrap/ng-bootstrap';
     ReactiveFormsModule,
     HttpClientModule,
     NgxSoapModule,
-    NgbModule
+    NgbModule,
+    BrowserAnimationsModule,
+    MatButtonModule,MatCardModule
   ],
   providers: [CookieService],
   bootstrap: [AppComponent]

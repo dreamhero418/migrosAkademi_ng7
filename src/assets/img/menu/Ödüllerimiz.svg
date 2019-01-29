@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="182" height="175" viewBox="0 0 182 175">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.508" y1="0.261" x2="0.149" y2="1.034" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e77378"/>
+      <stop offset="1" stop-color="#b32a30"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <path id="Icon" d="M27.836,138.55l0-.017L39.815,87.281,0,52.789l52.428-4.443L72.916,0,93.4,48.274l52.428,4.515L106.1,87.281l11.881,51.243L72.916,111.346l-45.065,27.2ZM72.916,97.709l0,0,27.487,16.62-7.291-31.2,24.209-21-31.94-2.776L72.916,29.9l-12.4,29.38L28.586,62.055l24.2,21L45.5,114.26,72.912,97.711Z" transform="translate(0 0)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Ödüllerimiz" transform="translate(0 -623.261)">
+    <path id="Fill_51" data-name="Fill 51" d="M95.371.895,11.494,29.073A16.74,16.74,0,0,0,0,45.07H0v.084A16.6,16.6,0,0,0,7.228,58.887h0l76.354,53.175A16.858,16.858,0,0,0,110,99.78h0l7.523-81.353A16.88,16.88,0,0,0,100.778,0h0a16.934,16.934,0,0,0-5.407.895" transform="translate(0 640.712)" fill="url(#linear-gradient)"/>
+    <g id="star_border" transform="translate(7 623.261)">
+      <rect id="star_border_background" data-name="star_border background" width="175" height="175" transform="translate(0 0)" fill="rgba(0,0,0,0)"/>
+      <path id="Base" d="M0,0H175V175H0Z" transform="translate(0 0)" fill="none"/>
+      <path id="Icon-2" data-name="Icon" d="M27.836,138.55l0-.017L39.815,87.281,0,52.789l52.428-4.443L72.916,0,93.4,48.274l52.428,4.515L106.1,87.281l11.881,51.243L72.916,111.346l-45.065,27.2ZM72.916,97.709l0,0,27.487,16.62-7.291-31.2,24.209-21-31.94-2.776L72.916,29.9l-12.4,29.38L28.586,62.055l24.2,21L45.5,114.26,72.912,97.711Z" transform="translate(14.583 14.583)" fill="none"/>
+      <g transform="translate(14.583 14.583)" clip-path="url(#clip-path)">
+        <rect id="_Color" data-name="↳ 🎨 Color" width="175" height="175" transform="translate(-14.583 -14.583)" fill="#4a4a4a"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="806.602" height="251.228" viewBox="0 0 806.602 251.228">
+  <g id="ribbon" transform="translate(-0.398 -65)">
+    <g id="Group" transform="translate(0 177)">
+      <g id="Group-2" data-name="Group" transform="translate(0 2.563)">
+        <path id="Shape" d="M214.573,0C130.131,15.387,49.47,36.931,0,57.258L67.853,78.879,28.238,136.366c51.5-20.375,122.551-39.117,204.252-53.094Z" transform="translate(0.398 0.298)" fill="#ef9122"/>
+        <path id="Shape-2" data-name="Shape" d="M86.539,0l9.145,42.461L0,17.146A378.08,378.08,0,0,1,86.539,0Z" transform="translate(137.209 41.103)" fill="#d3771c"/>
+      </g>
+      <g id="Group-3" data-name="Group" transform="translate(539.212)">
+        <path id="Shape-3" data-name="Shape" d="M17.911,0c84.442,15.387,165.1,36.931,214.573,57.258L164.637,78.879l39.61,57.487C152.75,115.991,81.7,97.249,0,83.272Z" transform="translate(0.704 0.298)" fill="#ef9122"/>
+        <path id="Shape-4" data-name="Shape" d="M9.134,0,0,42.461,95.679,17.146A377.915,377.915,0,0,0,9.134,0Z" transform="translate(0.688 43.667)" fill="#d3771c"/>
+      </g>
+    </g>
+    <path id="Shape-5" data-name="Shape" d="M498,35.356C431.916,13.894,372.971,0,253.6,0,133.381,0,65.988,14.1,0,35.805L17.618,116C84.129,97.354,143.543,85.52,253.6,85.52c109.283,0,160.285,11.657,226.772,30.094Z" transform="translate(141 113)" fill="#ef9122"/>
+    <path id="Shape-6" data-name="Shape" d="M545,60.707C478.729,32.353,411.1,0,280.462,0,148.9,0,69.493,24.563,0,61.154L19.28,141c72.789-18.565,137.809-30.347,258.249-30.347,119.6,0,175.412,11.606,248.174,29.963Z" transform="translate(115 65)" fill="#ef9122"/>
+    <text id="Toplam_eğitim_günü:" data-name="Toplam eğitim günü:" transform="translate(304 104)" fill="#fff" font-size="18" font-family="SegoeUI, Segoe UI" letter-spacing="0.026em"><tspan x="0" y="0">Toplam eğitim günü:</tspan></text>
+    <text id="_533.000_gün_" data-name="533.000 gün!" transform="translate(469 145)" fill="#fff" font-size="35" font-family="SegoeUI, Segoe UI" letter-spacing="0.02em"><tspan x="0" y="38">533.000 gün</tspan></text>
+  </g>
+</svg>

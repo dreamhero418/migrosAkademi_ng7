@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="175" height="175" viewBox="0 0 175 175">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.508" y1="0.261" x2="0.149" y2="1.034" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e77378"/>
+      <stop offset="1" stop-color="#b32a30"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <path id="Icon" d="M145.832,131.251H0V0H72.916V29.164h72.916V131.251ZM72.916,102.086v14.582H131.25V43.752H72.916V58.334H87.5V72.916H72.916V87.5H87.5v14.588Zm-29.164,0v14.582H58.334V102.086Zm-29.17,0v14.582H29.164V102.086Zm29.17-29.17V87.5H58.334V72.916Zm-29.17,0V87.5H29.164V72.916Zm29.17-29.164V58.334H58.334V43.752Zm-29.17,0V58.334H29.164V43.752Zm29.17-29.17V29.164H58.334V14.582Zm-29.17,0V29.164H29.164V14.582Zm102.086,87.5H102.086V87.5h14.582v14.588Zm0-29.17H102.086V58.334h14.582V72.916Z" transform="translate(0 0)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="İletişim" transform="translate(-7 -1448)">
+    <path id="Fill_41" data-name="Fill 41" d="M87.034.159l-76.39,12.2A12.634,12.634,0,0,0,.16,26.824h0L9.6,85.963A12.634,12.634,0,0,0,24.07,96.448h0l76.391-12.2a12.635,12.635,0,0,0,10.484-14.468h0L101.5,10.643A12.636,12.636,0,0,0,89.041,0h0a12.818,12.818,0,0,0-2.007.159" transform="translate(58.915 1495.021)" fill="url(#linear-gradient)"/>
+    <g id="business" transform="translate(7 1448)">
+      <rect id="business_background" data-name="business background" width="175" height="175" transform="translate(0 0)" fill="rgba(0,0,0,0)"/>
+      <path id="Base" d="M0,0H175V175H0Z" transform="translate(0 0)" fill="none"/>
+      <path id="Icon-2" data-name="Icon" d="M145.832,131.251H0V0H72.916V29.164h72.916V131.251ZM72.916,102.086v14.582H131.25V43.752H72.916V58.334H87.5V72.916H72.916V87.5H87.5v14.588Zm-29.164,0v14.582H58.334V102.086Zm-29.17,0v14.582H29.164V102.086Zm29.17-29.17V87.5H58.334V72.916Zm-29.17,0V87.5H29.164V72.916Zm29.17-29.164V58.334H58.334V43.752Zm-29.17,0V58.334H29.164V43.752Zm29.17-29.17V29.164H58.334V14.582Zm-29.17,0V29.164H29.164V14.582Zm102.086,87.5H102.086V87.5h14.582v14.588Zm0-29.17H102.086V58.334h14.582V72.916Z" transform="translate(14.583 21.875)" fill="none"/>
+      <g transform="translate(14.583 21.875)" clip-path="url(#clip-path)">
+        <rect id="_Color" data-name="↳ 🎨 Color" width="175" height="175" transform="translate(-14.583 -21.875)" fill="#4a4a4a"/>
+      </g>
+    </g>
+  </g>
+</svg>

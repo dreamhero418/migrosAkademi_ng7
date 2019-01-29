@@ -1,0 +1,14 @@
+<svg id="zoom" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18" height="18" viewBox="0 0 18 18">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Combined_Shape" data-name="Combined Shape" d="M16.293,17.708,12.9,14.317A8.009,8.009,0,1,1,14.317,12.9l3.39,3.389a1,1,0,0,1-1.415,1.415ZM2,8A6,6,0,1,0,8,2,6.007,6.007,0,0,0,2,8Z" fill="#262628"/>
+    </clipPath>
+  </defs>
+  <path id="Combined_Shape-2" data-name="Combined Shape" d="M16.293,17.708,12.9,14.317A8.009,8.009,0,1,1,14.317,12.9l3.39,3.389a1,1,0,0,1-1.415,1.415ZM2,8A6,6,0,1,0,8,2,6.007,6.007,0,0,0,2,8Z" fill="#262628"/>
+  <g clip-path="url(#clip-path)">
+    <g id="_Tint_Backgroud" data-name="↳Tint/Backgroud">
+      <rect id="_Tint_Backgroud_background" data-name="↳Tint/Backgroud background" width="18" height="18" fill="rgba(0,0,0,0)"/>
+      <rect id="Color" width="18" height="18" fill="#2d3436"/>
+    </g>
+  </g>
+</svg>
